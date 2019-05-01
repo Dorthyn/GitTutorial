@@ -1,2 +1,2 @@
 # GitTutorial
-show some basic use of the git VCS
+show some basic uses of the git VCS
