@@ -7,7 +7,7 @@ show basic uses of the git VCS
 
 2019-05-04
 
-commit at master branch.
+Create a new branch named testing.
 
 ===========
 
@@ -18,3 +18,5 @@ hotfix branch.
 2019-05-04
 
 Create a new branch named testing.
+===========
+I do not know which version it is.
